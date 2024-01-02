@@ -1,2 +1,8 @@
+<<<<<<< Updated upstream
 deep2
 123
+online edit
+=======
+123
+abcd
+>>>>>>> Stashed changes
